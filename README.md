@@ -2,12 +2,7 @@
 My personal sway config file backup.
 
 ---
-<h3>
-  <span style="text-decoration: underline;">
-    in config file you might need to install below packages to use it fully correctly.
-  </span>
-</h3>
-
+### In `config` file you might need to install below packages to use it fully correctly.
 - Alacritty => Primary terminal in use
 - Wofi => Use instead of dmenu and rofi on i3wm like
 - i3status => old stye of i3 status bar
